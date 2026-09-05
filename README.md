@@ -29,3 +29,14 @@ GROQ_API_KEY=your_api_key_here
 pip install streamlit pandas pillow
 pip install langchain langchain-community langgraph
 pip install langchain-google-genai langchain-groq
+```
+
+3. Jalankan perintah
+```bash
+streamlit run app.py
+```
+
+## Dokumentasi
+
+![Dokumentasi 1](images/image1.png)
+![Dokumentasi 2](images/image2.png)
